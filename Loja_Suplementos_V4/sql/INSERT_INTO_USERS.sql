@@ -1,0 +1,1 @@
+INSERT INTO LOJA_SUPLEMENTOS.USERS VALUES ( 1 , "admin", "admin");
